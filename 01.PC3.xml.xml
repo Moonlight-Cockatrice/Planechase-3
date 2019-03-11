@@ -1,0 +1,902 @@
+<cockatrice_carddatabase version="4">
+<cards>
+
+<card>
+ <name>Esper</name>
+ <text>Each player who has cast a nonartifact spell this turn can’t cast additional nonartifact spells.
+Whenever you roll {CHAOS}, put an artifact or a white, blue, or black permanent from your hand onto the battlefield.</text>
+ <prop>
+ <type>Plane — Alara</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Mallock Highlands</name>
+ <text>When you planeswalk to Mallock Highlands or at the beginning of your upkeep, if an opponent controls more lands than you, search your library for a basic land card, put it onto the battlefield, then shuffle your library.
+Whenever you roll {CHAOS}, each player sacrifices a nonbasic land. Search your library for a basic land card, put it onto the battlefield, then shuffle your library.</text>
+ <prop>
+ <type>Plane — Cerygscir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Dwimorwode</name>
+ <text>All creature tokens get +2/+4.  
+Whenever you roll {CHAOS}, create Eolhagen, a legendary 2/0 green and white Elk Spirit creature token with "Permanents you control have hexproof."</text>
+ <prop>
+ <type>Plane — Cerygscir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Bogardan</name>
+ <text>Whenever a creature dies, it deals damage equal to its power to target creature.
+Whenever you roll {CHAOS}, each player sacrifices a creature.</text>
+ <prop>
+ <type>Plane — Dominaria</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Paliano</name>
+ <text>All creatures have dethrone.
+At the beginning of your end step, if you’re the monarch, you gain 4 life.
+Whenever you roll {CHAOS}, you become the monarch.</text>
+ <prop>
+ <type>Plane — Fiora</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Orazca</name>
+ <text>Players can’t activate planeswalkers’ loyalty abilities.
+Players can’t planeswalk unless they control ten or more permanents.
+Whenever you roll {CHAOS}, return each creature of the creature type of your choice to their owner’s hand.</text>
+ <prop>
+ <type>Plane — Ixalan</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Ghirapur</name>
+ <text>All nontoken creatures have fabricate 1.
+Whenever you roll {CHAOS}, spells you cast gain improvise until end of turn.</text>
+ <prop>
+ <type>Plane — Kaladesh</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Siphoning Station</name>
+ <text>Whenever a land is tapped for mana, its controller puts a depletion counter on it.
+Lands with two or more depletion counters on them don't untap during players' untap steps.           
+Whenever you roll {CHAOS}, untap all lands you control.</text>
+ <prop>
+ <type>Plane — Sowora</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>The Araba</name>
+ <text>When you planeswalk to The Araba, or at the beginning of your upkeep, tap all non-Spirit creatures you control.                                                                                     
+Whenever you roll {CHAOS}, choose an opponent. Create a colorless 1/1 Spirit creature token for each tapped creature that player controls.</text>
+ <prop>
+ <type>Plane — Kamigawa</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Entropic Core</name>
+ <text>Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)                                                      
+Whenever you roll {CHAOS}, choose a nonland permanent you control and up to three nonland permanents you don't control at random. Destroy two of them at random.</text>
+ <prop>
+ <type>Plane — Karsus</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Naktamun</name>
+ <text>Each card in each player’s hand has cycling {2}.
+Whenever a player discards a card, that player may put a -1/-1 counter on target creature.
+Whenever you roll {CHAOS}, exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie.</text>
+ <prop>
+ <type>Plane — Amonkhet</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>The Tangle</name>
+ <text>When you planeswalk to The Tangle or at the beginning of your upkeep, destroy target artifact.
+Whenever you roll {CHAOS}, target permanent becomes an artifact in addition to its other types.</text>
+ <prop>
+ <type>Plane — Mirrodin</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Mephidross</name>
+ <text>Each colored mana symbol in the mana costs of cards not on the battlefield can be paid either with one mana of its color or by paying 2 life.                                                                                                                                                                                                                         
+Whenever you roll {CHAOS}, at the beginning of your next end step, you gain life equal to the life you lost this turn.</text>
+ <prop>
+ <type>Plane — New Phyrexia</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>The Meldweb</name>
+ <text>Players play with their hands revealed.                                                                                                                                                                                                                          
+Whenever you roll {CHAOS}, choose a nonland card in target opponent's hand, you may cast that card until end of turn. You may spend mana as though it were mana of any color to cast that spell.</text>
+ <prop>
+ <type>Plane — New Phyrexia</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Gruul Rubble Slum</name>
+ <text>At the beginning of combat on your turn, if you control the creature with the greatest power or tied for the greatest power, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Whenever you roll {CHAOS}, target creature you control gets +2/+2 until end of turn. It fights another target creature.</text>
+ <prop>
+ <type>Plane — Ravnica</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Rakdos Gore-House</name>
+ <text>Creature spells you cast cost {1} less to cast for each 1 point of life your opponents have lost this turn.
+Whenever you roll {CHAOS}, target player reveals a card at random from their hand. Rakdos Gore-House deals damage to that player equal to that card’s converted mana cost.</text>
+ <prop>
+ <type>Plane — Ravnica</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Zonot One</name>
+ <text>Players may cast creature cards as though they had flash.               
+Whenever you roll {CHAOS}, creatures enter the battlefield this turn with two additional +1/+1 counters on them.</text>
+ <prop>
+ <type>Plane — Ravnica</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Mount Kulrath</name>
+ <text>Whenever a player draws a card, Mount Kulrath deals 2 damage to that player. Any player may skip their draw step.
+Whenever you roll {CHAOS}, target player draws two cards unless they discard two cards.</text>
+ <prop>
+ <type>Plane — Shadowmoor</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Wanderbrine River</name>
+ <text>All creatures have islandwalk.                                                         
+Whenever you roll {CHAOS}, target land becomes an Island.</text>
+ <prop>
+ <type>Plane — Shadowmoor</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Arashin</name>
+ <text>At the beginning of your end step, put a +1/+1 counter on each white, black, and/or green creature you control.                                  
+Whenever you roll {CHAOS}, bolster X, where X is the number of +1/+1 counters on creatures you control.</text>
+ <prop>
+ <type>Plane — Tarkir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Goldengrave</name>
+ <text>At the beginning of your second main phase, if you attacked with a creature this turn, add {R}{W}{B}.                                    
+Whenever you roll {CHAOS}, untap all red, white, and/or black creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+ <prop>
+ <type>Plane — Tarkir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Highspire Stronghold</name>
+ <text>Blue, red, and/or white nontoken creatures have prowess.                                                            
+Whenever you roll {CHAOS}, return up to one target instant card and up to one target sorcery card from your graveyard to your hand.</text>
+ <prop>
+ <type>Plane — Tarkir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Qal Sisma</name>
+ <text>At the beginning of each combat, target green, blue, or red creature you control gets +X/+X until end of turn, where X is that creature’s power.
+Whenever you roll {CHAOS}, draw a card for each creature you control with power 4 or greater.</text>
+ <prop>
+ <type>Plane — Tarkir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Sagu Jungle</name>
+ <text>Black, green, and/or blue creature cards that aren't on the battlefield have delve.                  
+Whenever you roll {CHAOS}, put the top four cards of your library into your graveyard.</text>
+ <prop>
+ <type>Plane — Tarkir</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Akros</name>
+ <text>Prevent all damage that would be dealt to attacking creatures.       
+Whenever you roll {CHAOS}, creatures you control get +2/+0 and gain vigilance until end of turn.</text>
+ <prop>
+ <type>Plane — Theros</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Meletis</name>
+ <text>Spells you cast that target creatures you control cost {2} less to cast.                                                                                                                                                             
+Whenever you roll {CHAOS}, search your library for an instant or Aura card, reveal it, and put it into your hand. Then shuffle your library.</text>
+ <prop>
+ <type>Plane — Theros</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Nyx</name>
+ <text>Each non-Aura enchantment is a creature in addition to its other types and has base power and toughness each equal to its converted mana cost.
+Whenever you roll {CHAOS}, destroy all nonenchantment creatures.</text>
+ <prop>
+ <type>Plane — Theros</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Setessa</name>
+ <text>Whenever a creature becomes the target of a spell or ability, that creature’s controller puts a +1/+1 counter on it.
+Whenever you roll {CHAOS}, choose a color. Distribute a number of +1/+1 counters equal to your devotion to that color among any number of creatures you control.</text>
+ <prop>
+ <type>Plane — Theros</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>The Underworld</name>
+ <text>If a creature would die, exile it instead. Its owner creates a colorless artifact token named Gold. It has "Sacrifice this artifact: Add one mana of any color." 
+Whenever you roll {CHAOS}, create a 2/2 black Zombie enchantment creature token for each creature you own exiled with The Underworld.</text>
+ <prop>
+ <type>Plane — Theros</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Nidvain</name>
+ <text>If a player would gain life, that player loses that much life instead. 
+Whenever you roll {CHAOS}, creatures your opponents control gain lifelink until end of turn.</text>
+ <prop>
+ <type>Plane — Halja</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Qasrah</name>
+ <text>When you planeswalk to Qasrah or at the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.
+Whenever you roll {CHAOS}, until end of turn, you may cast a card you own from exile without paying its mana cost.</text>
+ <prop>
+ <type>Plane — Vokhadh</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Yatim</name>
+ <text>Each creature gets +1/+1 for each of its colors.                               
+Whenever you roll {CHAOS}, target creature you control becomes all colors until end of turn.</text>
+ <prop>
+ <type>Plane — Vokhadh</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Bala Ged</name>
+ <text>Players play with the top card of their libraries revealed.
+You may play the top card of your library if it's a land card.                                                
+Whenever you roll {CHAOS}, choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.</text>
+ <prop>
+ <type>Plane — Zendikar</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Malakir</name>
+ <text>Creatures you control have menace as long as an opponent has 10 or less life.                                                           
+Whenever you roll {CHAOS}, creatures you control can't be blocked by more than one creature until end of turn.</text>
+ <prop>
+ <type>Plane — Zendikar</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Sejiri</name>
+ <text>All creatures have lifelink.
+Whenever you roll {CHAOS}, prevent all combat damage that would be dealt to creatures you control this turn.</text>
+ <prop>
+ <type>Plane — Zendikar</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Asylum at Vezhri</name>
+ <text>At the beginning of your end step, put a stricture counter on Asylum at Vezhri. Spells cost {1} more to cast for each stricture counter on Asylum at Vezhri.                  
+Whenever you roll {CHAOS}, remove all stricture counters from Asylum at Vezhri.</text>
+ <prop>
+ <type>Plane — Zoese</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Seat of the Feyat</name>
+ <text>Whenever a creature enters the battlefield, if there are two or more other creatures on the battlefield, exile that creature until a player planeswalks.
+Whenever you roll {CHAOS}, exile all creatures. Then planeswalk.</text>
+ <prop>
+ <type>Plane — Zoese</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Xaibaza Spire</name>
+ <text>At the beginning of your end step, you lose 1 life for each untapped permanent you control.
+Whenever you roll {CHAOS}, destroy target tapped permanent.</text>
+ <prop>
+ <type>Plane — Izoka</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Calonet</name>
+ <text>When you planeswalk to Calonet or at the beginning of your upkeep, create a colorless Equipment artifact token named Sword. It has “Equipped creature gets +1/+0,” and equip {1}.
+Whenever you roll {CHAOS}, create a colorless legendary Equipment artifact token named Caladan. It has indestructible, “Equipped creature gets +0/+2 and has first strike, vigilance, and battle cry,” and equip {0}.</text>
+ <prop>
+ <type>Plane — Gannor</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Biphanast</name>
+ <text>If tapped for mana, Plains produce {R}, Islands produce {G}, Swamps produce {W}, Mountains produce {U}, and Forests produce {B} instead of any other type.
+Whenever you roll {CHAOS}, each land you control becomes the basic land type of your choice in addition to its other types until end of turn.</text>
+ <prop>
+ <type>Plane — Guinaran</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Hills of Restoration</name>
+ <text>Whenever a creature enters the battlefield, its controller gains 1 life.
+Whenever you roll {CHAOS}, exile target creature you control, then return that card to the battlefield under your control.</text>
+ <prop>
+ <type>Plane — Cabralin</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Bolbaia Seed Archive</name>
+ <text>Whenever a player draws a card, that player creates a 0/1 green Plant creature token.
+Whenever you roll {CHAOS}, you gain 2 life for each creature you control.</text>
+ <prop>
+ <type>Plane — Kolbahan</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Library of Mebewa</name>
+ <text>Whenever you draw a card, exile a card from your hand face down.
+If you would draw a card, you may return a card exiled with Library of Mebewa to your hand instead.
+Whenever you roll {CHAOS}, draw seven cards.</text>
+ <prop>
+ <type>Plane — Kinshala</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Tornadic Steppes</name>
+ <text>When you planeswalk to Tornadic Steppes, or at the beginning of your upkeep, put a velocity counter on Tornadic Steppes, then Tornadic Steppes deals damage equal to the number of velocity counters on it to each creature with flying.
+Whenever you roll {CHAOS}, creatures you control lose flying until a player planeswalks.</text>
+ <prop>
+ <type>Plane — Kephalai</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Zomanderi</name>
+ <text>Each creature can’t deal combat damage to creatures that share a creature type with it.
+Whenever you roll {CHAOS}, target opponent skips their next combat phase.</text>
+ <prop>
+ <type>Plane — Izoka</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>The Hodiya</name>
+ <text>All creatures have skulk and frenzy 1.
+Whenever you roll {CHAOS}, sacrifice a creature. Create X 0/1 black Insect creature tokens, where X is the sacrificed creature’s power.</text>
+ <prop>
+ <type>Plane — Wejaihon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Royal Lily Field</name>
+ <text>When you planeswalk to Royal Lily Field, or at the beginning of your upkeep, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it’s a creature card.)
+Whenever you roll {CHAOS}, return any number of face-down instants and sorceries you own to your hand. Until end of turn, you may cast those spells without paying their mana costs.</text>
+ <prop>
+ <type>Plane — Fabacin</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Valor's Reach</name>
+ <text>Whenever a player casts a creature spell, that player may put a creature card with the same total power and toughness from their hand onto the battlefield.
+Whenever you roll {CHAOS}, support 2 three times.</text>
+ <prop>
+ <type>Plane — Kylem</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Veznar</name>
+ <text>Whenever a creature attacks, its controller may pay {2}. If that player doesn’t, defending player investigates.
+Whenever you roll {CHAOS}, detain up to X target permanents your opponents control, where X is the number of cards in your hand.</text>
+ <prop>
+ <type>Plane — Yrun</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Potulunca</name>
+ <text>Equipment lose all abilities and all creatures have base power and toughness 1/1.
+Whenever you roll {CHAOS}, target creature gets +5/+5 and gains trample until end of turn.</text>
+ <prop>
+ <type>Plane — Pajillo</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Ongo Grove</name>
+ <text>When you planeswalk to Ongo Grove, or at the beginning of your upkeep, put a spore counter on each creature, then each creature with toughness less than the number of spore counters on it becomes a colorless Forest land.
+Whenever you roll {CHAOS}, remove all spore counters from all creatures.</text>
+ <prop>
+ <type>Plane — Pajillo</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>High Gul</name>
+ <text>Whenever an artifact or creature becomes the target of a spell or ability, destroy that permanent.
+Whenever you roll {CHAOS}, tap up to two target permanents.</text>
+ <prop>
+ <type>Plane — Nelaza</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Citrine Bastion</name>
+ <text>Whenever a creature blocks, its controller gains 2 life.
+Whenever you roll {CHAOS}, create a 4/4 white Angel creature token with flying and vigilance.</text>
+ <prop>
+ <type>Plane — Luvion</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Wiriria</name>
+ <text>At the beginning of each end step, each player returns to the battlefield all creature and enchantment cards in their graveyard that were put there from the battlefield this turn.
+Whenever you roll {CHAOS}, you gain 2 life for each enchantment you control and 2 life for each creature type among creatures you control.</text>
+ <prop>
+ <type>Plane — Izoka</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Trest</name>
+ <text>Whenever one or more creatures you control deal combat damage to a player, you may look at that player’s hand, then draw a card.
+Whenever you roll {CHAOS}, look at the top three cards of target opponent’s library, then put them back in any order. You may have that player shuffle their library.</text>
+ <prop>
+ <type>Plane — Fiora</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Kinnesta</name>
+ <text>Rather than the attacking player, the defending player assigns the combat damage of each creature attacking them.
+Whenever you roll {CHAOS}, you choose which creatures block this combat and how those creatures block.</text>
+ <prop>
+ <type>Plane — Fiora</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Kedaris</name>
+ <text>Noncreature spells have retrace.
+Whenever a player discards a land card, that player gets a soot counter, then loses life equal to the number of soot counters they have.
+Whenever you roll {CHAOS}, you gain 5 life, lose three soot counters, and return a land card from your graveyard to your hand.</text>
+ <prop>
+ <type>Plane — Osk</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Plane</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Damaged Spark</name>
+ <text>When you encounter Damaged Spark, costs to roll the planar die are paid with life rather than mana until a player planeswalks away from a plane. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Witness the Eternities</name>
+ <text>When you encounter Witness the Eternities, each player searches their library for a planeswalker card, puts it onto the battlefield under their control, loses life equal to its converted mana cost, then shuffles their library. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Pre-Mending Counsel</name>
+ <text>When you encounter Pre-Mending Counsel, each player shuffles their hand and graveyard into their library, then draws seven cards. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Realignment of Fate</name>
+ <text>When you encounter Realignment of Fate, each player controls the player to their right during that player's next turn. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Spark Hemorrhage</name>
+ <text>When you encounter Spark Hemorrhage, each player's life total becomes the lowest life total among all players. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Planar Rebirth</name>
+ <text>When you encounter Planar Rebirth, each player may sacrifice any number of lands. Each player searches their library for up to that many land cards, puts them onto the battlefield tapped, then shuffles their library. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+<card>
+ <name>Extraplanar Influence</name>
+ <text>When you encounter Extraplanar Influence, each player reveals the top five cards of their library, puts all land cards revealed this way onto the battlefield tapped, and exiles the rest. (Then planeswalk away from this phenomenon.)</text>
+ <prop>
+ <type>Phenomenon</type>
+ <layout>planar</layout>
+ <cmc>0</cmc>
+ <maintype>Phenomenon</maintype>
+ <side>front</side>
+ </prop>
+ <set picURL="/.full.jpg" picURLHq="" picURLSt="">PC3</set>
+ <tablerow>1</tablerow>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
