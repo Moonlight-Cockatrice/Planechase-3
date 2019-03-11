@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+    <sets>
+        <set>
+            <name>TK</name>
+            <longname>Dummy set containing tokens</longname>
+            <settype>Tokens</settype>
+            <releasedate></releasedate>
+        </set>
+    </sets>
+	<cards>
+<card>
+ <name>Caladan</name>
+ <set>PC3</set>
+ <cmc>0</cmc>
+ <type>Legendary Token Artifact — Equipment</type>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+Equipped creature gets +0/+2 and has first strike, vigilance, and battle cry.
+Equip {0}</text>
+ <token>1</token>
+ <reverse-related>Calonet</reverse-related>
+</card>
+<card>
+ <name>Sword</name>
+ <set>PC3</set>
+ <cmc>0</cmc>
+ <type>Token Artifact — Equipment</type>
+ <tablerow>2</tablerow>
+ <text>Equipped creature gets +1/+0.
+Equip {1}</text>
+ <token>1</token>
+ <reverse-related>Calonet</reverse-related>
+</card>
+<card>
+ <name>Eolhagen</name>
+ <set>PC3</set>
+ <color>G</color>
+ <color>W</color>
+ <cmc>0</cmc>
+ <type>Token Legendary Creature — Elk Spirit</type>
+ <pt>2/0</pt>
+ <tablerow>2</tablerow>
+ <text>Permanents you control have hexproof.</text>
+ <token>1</token>
+ <reverse-related>Dwimorwode</reverse-related>
+</card>
+	</cards>
+</cockatrice_carddatabase>
